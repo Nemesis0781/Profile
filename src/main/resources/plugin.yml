@@ -1,0 +1,8 @@
+name: Profile
+main: fr.nemesis07.profile.Profile
+version: 1.0.0
+author: Nemesis07
+depend: [SmartInvs, PlaceholderAPI]
+commands:
+  profile:
+    aliases: profil

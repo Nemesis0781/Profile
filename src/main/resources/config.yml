@@ -1,0 +1,21 @@
+db:
+  host: 'localhost'
+  port: '3306'
+  dbName: 'profile'
+  username: 'root'
+  password: 'root'
+
+messages:
+  console: '&cVous n''avez pas le droit de faire cette commande.'
+  wait: '&aAnalyse en cours'
+  set: '&eCe compte a bien été ajouté à votre profil.'
+  remove: '&eCe compte a bien été retiré de votre profil'
+  argument: '&cMauvais arguments'
+  assigned: '&cCe compte est déjà attribué merci d''aller sur le discord pour prouver votre authenticité.'
+  finishWait: '&aVotre compte a bien été enregistré.'
+  errorAddAccount: '&cUne faute d''orthographe a été effectué, ou le compte n''existe pas.'
+
+dateFormat: "dd/MM/yyyy"
+
+waitTime: #in seconds
+  openAnvil: 30

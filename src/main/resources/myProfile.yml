@@ -1,0 +1,116 @@
+player:
+  name: "&7%name%"
+  lore:
+    - "&7Grade: &e%prefix%"
+    - "&7Coins: &b%coins%"
+    - ""
+    - "&7Créer le: %firstJoin%"
+
+youtube:
+  name: "&cYouTube"
+  noAccount:
+    lore:
+      - "&7Actuel: &eAucun"
+      - ""
+      - "&f - &9&nClique gauche pour associer ton compte"
+  hasAccount:
+    deleted: "&aVotre compte à correctement été supprimer."
+    lore:
+      - "&7Actuel: &e%title%"
+      - ""
+      - "&5Nombre d'abonnés: &e%subscriber%"
+      - "&5Nombre de vues: &e%viewCount%"
+      - "&5Nombre de vidéo: &e%videoCount%"
+      - ""
+      - "&5Description: "
+    lore2:
+      - ""
+      - ""
+      - "&f- &9&nClique droit pour le désassocier"
+  click:
+    - ""
+    - "&7Une enclume va s'ouvrir dans 30 secondes."
+    - "&7Vous devrez écrire votre channel ID."
+    - ""
+    - "&ePour trouver le channel ID:"
+    - "&7Rendez-vous sur &cYouTube&7.com"
+    - "&7Puis allez dans paramètres puis paramètres avancés"
+    - ""
+  shortcut: "&7Ou cliquez &a&niçi"
+
+
+twitter:
+  name: "&bTwitter"
+  noAccount:
+    lore:
+      - "&7Actuel: &eAucun"
+      - ""
+      - "&f - &9&nClique gauche pour associer ton compte"
+  hasAccount:
+    deleted: "&aVotre compte à correctement été supprimer."
+    lore:
+      - "&7Actuel: &e%title%"
+      - ""
+      - "&5Nombre d'abonnés: &e%followersCount%"
+      - "&5Nombre d'abonnement: &e%followingCount%"
+      - "&5Nombre de tweet: &e%tweetCount%"
+      - ""
+      - "&5Description: "
+    lore2:
+      - ""
+      - ""
+      - "&f- &9&nClique droit pour le désassocier"
+  click:
+    - ""
+    - "&7Une enclume va s'ouvrir dans 30 secondes."
+    - "&7Vous devrez écrire le nom de votre compte."
+    - "&7(Exemple: &eErresia_Network&7)"
+    - ""
+
+
+twitch:
+  name: "&5Twitch"
+  noAccount:
+    lore:
+      - "&7Actuel: &eAucun"
+      - ""
+      - "&f - &9&nClique gauche pour associer ton compte"
+  hasAccount:
+    deleted: "&aVotre compte à correctement été supprimer."
+    lore:
+      - "&7Actuel: &e%title%"
+      - ""
+      - "&5En live: &e%isOnLive%"
+      - "&5Nombre d'abonnés: &e%subscribers%"
+      - "&5Nombre de vues total: &e%viewCountTotal%"
+      - ""
+      - "&5Description: "
+    lore2:
+      - ""
+      - ""
+      - "&f- &9&nClique droit pour le désassocier"
+  click:
+    - ""
+    - "&7Une enclume va s'ouvrir dans 30 secondes."
+    - "&7Vous devrez écrire le nom de votre compte."
+    - ""
+
+discord:
+  name: "&9Discord"
+  noAccount:
+    lore:
+      - "&7Actuel: &eAucun"
+      - ""
+      - "&f - &9&nClique gauche pour associer ton compte"
+  hasAccount:
+    deleted: "&aVotre compte à correctement été supprimer."
+    lore:
+      - "&7Actuel: &e%title%"
+      - ""
+      - "&f- &9&nClique droit pour le désassocier"
+  click:
+    - ""
+    - "&7Une enclume va s'ouvrir dans 30 secondes."
+    - "&7Vous devrez écrire votre discord."
+    - "&7(Exemple: &eDiscord#0000&7)"
+    - ""

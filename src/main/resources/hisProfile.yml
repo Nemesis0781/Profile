@@ -1,0 +1,10 @@
+hisProfile:
+  network:
+    youtube:
+      item:
+        name: "&cYouTube"
+        lore:
+          - "&7Actuel: &e%title%"
+          - ""
+          - "&7Clic gauche pour ajouter ton compte"
+          - "&7Clic droit pour le supprimer"
